@@ -1,0 +1,1 @@
+print("Risk is not in my vocabulary, it's in my very nature. - Slash")
