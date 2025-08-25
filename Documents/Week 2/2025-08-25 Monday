@@ -1,0 +1,16 @@
+#Variable Naming Practice
+
+Descriptive and meaningful. Variable names should be consitent and
+reveal the intention clearly. This makes code more readable and
+understandable. 
+
+Further, underscores between words in variable names, and spaces after the variable name and before the value will help keep code 
+readable. 
+
+#Debugging Common Mistakes
+
+Missing colon/semi-colon (colon in python)
+Missing or mismatched delimiters (parentheses, braces, brackets, quotes)
+Typos in keywords or identifiers. 
+Using assignment (=) instead of equality (==)
+Undeclared or redeclared variables. 
