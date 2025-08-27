@@ -1,0 +1,20 @@
+# String Methods
+
+.upper()
+Convert all lowercase characters in a string to upper case
+
+.lower()
+Convert all upper case characters in the string into lower case
+
+.title()
+Convert a string into "Title Case" where the first character of each word is upper case
+
+.strip()
+Remove leading and trailing characters from a string
+
+
+# Concatenation
+A process of combining two or more strings into a single larger string
+
+# f-strings
+Formatted String Literals. Enclose expressions within curly crackets {} to embed them directly in the string. 
