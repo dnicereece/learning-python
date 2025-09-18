@@ -18,7 +18,7 @@ def option4():
     print("Exiting the menu. Goodbye!")
 
 
-# Get user input and call the appropriate function
+# Define the main function to get user input and call the appropriate function
 def main():
     while True:
         menu()
