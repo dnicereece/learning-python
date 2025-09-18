@@ -27,7 +27,7 @@ def subtract(a, b) -> float | int:
     """
     return a - b
 # Multiplication
-def multiply(a, b) - > float | int:
+def multiply(a, b) -> float | int:
     """
     Multiplies two numbers and returns the result.
 
@@ -88,7 +88,10 @@ def factorial(n) -> int:
         for i in range(2, n + 1):
             result *= i
         return result
-    
+
+if __name__ == "__main__":
+    pass
+
 # Example usage
 print(add(5, 3))        # Output: 8
 print(subtract(5, 3))   # Output: 2

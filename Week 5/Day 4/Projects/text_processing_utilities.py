@@ -94,6 +94,9 @@ def count_vowels(text: str) -> int:
     vowels = "aeiouAEIOU"
     return sum(1 for char in text if char in vowels)
 
+if __name__ == "__main__":
+    pass
+
 # Example usage
 print(count_words("Hello world! This is a test."))  # Output: 6
 print(count_characters("Hello world!"))             # Output: 13

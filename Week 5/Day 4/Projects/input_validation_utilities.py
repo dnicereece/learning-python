@@ -88,6 +88,9 @@ def is_phone_number(value: str) -> bool:
     phone_pattern = r'^\+?1?\d{9,15}$'  # Simplified pattern for international phone numbers
     return re.match(phone_pattern, value) is not None
 
+if __name__ == "__main__":
+    pass
+
 # Example usage
 print(is_integer("123"))          # True
 print(is_float("123.45"))         # True
