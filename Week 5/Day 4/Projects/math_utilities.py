@@ -27,7 +27,7 @@ def subtract(a, b) -> float | int:
     """
     return a - b
 # Multiplication
-def multiply(a, b) - > float | int:
+def multiply(a, b) -> float | int:
     """
     Multiplies two numbers and returns the result.
 
