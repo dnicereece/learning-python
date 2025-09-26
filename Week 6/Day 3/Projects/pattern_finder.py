@@ -1,0 +1,1 @@
+# Create a pattern finder to identify specific sequences in a list.
