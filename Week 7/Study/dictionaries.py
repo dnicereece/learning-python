@@ -87,4 +87,5 @@ Using the get() method: This method provides a safer way to access values, as it
 (or a specified default value) if the key is not found, instead of raising a KeyError.
 """
 print(my_dict.get("name"))  # Output: Alice
-print(my_dict.get("city")) # Output: Unknown (default value)
+print(my_dict.get("city", "Unknown")) # Output: Unknown (default value)
+print(my_dict.get("city"))  # Output: None (key not found)
