@@ -1,0 +1,11 @@
+{
+    "theme": "light",
+    "language": "en",
+    "autosave": true,
+    "max_recent_files": 5,
+    "notifications": {
+        "email": true,
+        "sms": false
+    },
+    "font": "14"
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "timestamp": "2025-10-01 09:15:23",
+        "value": "Temperature: 72F"
+    },
+    {
+        "timestamp": "2025-10-01 10:30:45",
+        "value": "Temperature: 74F"
+    },
+    {
+        "timestamp": "2025-10-01 11:45:10",
+        "value": "Temperature: 73F"
+    },
+    {
+        "timestamp": "2025-10-02 13:53:42",
+        "value": "Temperature: 75F"
+    },
+    {
+        "timestamp": "2025-10-02 13:54:07",
+        "value": "Weather: Sunny"
+    }
+]
