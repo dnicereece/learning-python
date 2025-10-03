@@ -1,0 +1,104 @@
+{
+    "1001": {
+        "name": "Alice Johnson",
+        "major": "Computer Science",
+        "classes": [
+            {
+                "class_name": "Intro to Python",
+                "day": "Monday",
+                "time": "10:00 AM",
+                "attendance": [
+                    "2025-09-01",
+                    "2025-09-08"
+                ],
+                "grades": {
+                    "overall": 88,
+                    "assignments": [
+                        {
+                            "name": "Homework 1",
+                            "score": 90
+                        },
+                        {
+                            "name": "Quiz 1",
+                            "score": 85
+                        }
+                    ]
+                }
+            },
+            {
+                "class_name": "Data Structures",
+                "day": "Wednesday",
+                "time": "2:00 PM",
+                "attendance": [],
+                "grades": {
+                    "overall": 92,
+                    "assignments": [
+                        {
+                            "name": "Lab 1",
+                            "score": 95
+                        },
+                        {
+                            "name": "Midterm",
+                            "score": 89
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "1002": {
+        "name": "Brian Lee",
+        "major": "Mathematics",
+        "classes": [
+            {
+                "class_name": "Calculus I",
+                "day": "Tuesday",
+                "time": "9:00 AM",
+                "attendance": [
+                    "2025-09-15"
+                ],
+                "grades": {
+                    "overall": 78,
+                    "assignments": [
+                        {
+                            "name": "Homework 1",
+                            "score": 80
+                        },
+                        {
+                            "name": "Quiz 1",
+                            "score": 76
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "1003": {
+        "name": "Denise Reece",
+        "major": "Biology",
+        "classes": [
+            {
+                "class_name": "Lab",
+                "day": "Tuesday",
+                "time": "10:00 AM",
+                "attendance": [
+                    "2025-10-03"
+                ],
+                "grades": {
+                    "overall": 97.0,
+                    "assignments": [
+                        {
+                            "name": "Homework 1",
+                            "score": 97.0
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "1004": {
+        "name": "Garret Adkins",
+        "major": "Horticulture",
+        "classes": []
+    }
+}
