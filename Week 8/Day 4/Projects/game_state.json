@@ -1,0 +1,13 @@
+{
+  "level": 3,
+  "score": 1500,
+  "player": {
+    "name": "Hero",
+    "health": 75,
+    "inventory": [
+      "sword",
+      "shield",
+      "potion"
+    ]
+  }
+}

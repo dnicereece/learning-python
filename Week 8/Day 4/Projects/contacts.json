@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Alice Smith",
+    "company": "Acme Corp",
+    "phone": "555-1234",
+    "email": "alice@acme.com"
+  },
+  {
+    "name": "Bob Jones",
+    "company": "Beta LLC",
+    "phone": "555-5678",
+    "email": "bob@beta.com"
+  }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Alice Johnson",
+        "company": "Tech Solutions",
+        "phone": "123-456-7890",
+        "email": "alice.johnson@techsolutions.com"
+    },
+    {
+        "name": "Bob Smith",
+        "company": "InnovateX",
+        "phone": "(555) 234-5678",
+        "email": "bob.smith@innovatex.com"
+    },
+    {
+        "name": "Carol Lee",
+        "company": "Green Energy",
+        "phone": "555-987-6543",
+        "email": "carol.lee@greenenergy.com"
+    },
+    {
+        "name": "David Kim",
+        "company": "HealthFirst",
+        "phone": "5551234567",
+        "email": "david.kim@healthfirst.com"
+    },
+    {
+        "name": "Emma Davis",
+        "company": "EduWorld",
+        "phone": "321-654-0987",
+        "email": "emma.davis@eduworld.com"
+    },
+    {
+        "name": "Garret Adkins",
+        "company": "Spear AI",
+        "phone": "813-555-1234",
+        "email": "garret@email.com"
+    }
+]
