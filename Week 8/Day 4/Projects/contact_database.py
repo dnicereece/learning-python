@@ -38,4 +38,3 @@ if __name__ == "__main__":
     add_contact("Alice Smith", "Acme Corp", "555-1234", "alice@acme.com")
     add_contact("Bob Jones", "Beta LLC", "555-5678", "bob@beta.com")
     print(get_contacts())
-
