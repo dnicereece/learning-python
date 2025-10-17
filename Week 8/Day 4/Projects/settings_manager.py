@@ -71,6 +71,9 @@ def get_setting(key, default=None, file=SETTINGS_FILE):
         return default
     
 # Example usage
-save_settings(DEFAULT_SETTINGS)
-print(load_settings())
-
+if __name__ == "__main__":
+    save_settings(DEFAULT_SETTINGS)
+    print(load_settings())
+    update_setting("theme", "dark")
+    print(get_setting("theme"))
+    reset_settings()
