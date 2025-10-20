@@ -32,5 +32,3 @@ library.add_book(book3)
 
 # Showing all books in the library
 library.show_books()
-
-
